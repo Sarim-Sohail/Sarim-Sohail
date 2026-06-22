@@ -13,7 +13,7 @@
 
 ### About
 
-CS graduate from FAST-NUCS, currently pursuing an M.Sc in Artificial Intelligence at FAU Erlangen-Nürnberg. I mostly build apps, from React dashboards to Flutter apps to ML-backed tools.
+CS graduate from FAST-NUCES, currently pursuing an M.Sc in Artificial Intelligence at FAU Erlangen-Nürnberg. I mostly build apps, from React dashboards to Flutter apps to ML-backed tools.
 
 ```text
 Languages    Python · TypeScript · JavaScript · C/C++ · PHP · SQL · Dart
